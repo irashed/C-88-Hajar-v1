@@ -28,7 +28,7 @@ Working with a great team like who we met in Hajj hackathon was a great enrichin
 - Automatically filter all the information that we get from people who use it.
 - Add more features to our AI platform. 
 
-##What we do and what is ready before the hackathon
+## What we do and what is ready before the hackathon
 - Watson is the AI platform form IBM, We add intents, entities, and created a dialog to make it useful.
 - We use open source code for Node.js and waston with our API.
 - Change the UI and make it pretty. 
