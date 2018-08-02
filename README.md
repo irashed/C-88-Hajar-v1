@@ -14,7 +14,7 @@ Everybody is busy in Hajj so it's really hard to get answers for your questions 
 
 ## Accomplishments that we're proud of
 Connected IBM Waston with MongoDB to get all information from people who use Hajar
-Make our project ready to use soon you can try it on [Hajar.live] 
+Make our project ready to use soon you can try it on [http://www.hajar.live] 
 We are so happy to help people from all around the world
 
 
@@ -27,3 +27,9 @@ Working with a great team like who we met in Hajj hackathon was a great enrichin
 - Complete what we started and make it globally by supporting many languages.
 - Automatically filter all the information that we get from people who use it.
 - Add more features to our AI platform. 
+
+##What we do and what is ready before the hackathon
+- Watson is the AI platform form IBM, We add intents, entities, and created a dialog to make it useful.
+- We use open source code for Node.js and waston with our API.
+- Change the UI and make it pretty. 
+- Connect with MongoDB to store the data and use it in the future.  
