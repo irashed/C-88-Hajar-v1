@@ -1,7 +1,3 @@
-# C-88-Hajar-v1
-Chatbot to help people in Hajj
-
-
 ## Inspiration
 help people to get answers so fast with **IBM Waston**.
 
@@ -17,11 +13,13 @@ Everybody is busy in Hajj so it's really hard to get answers for your questions 
 
 
 ## Accomplishments that we're proud of
+Connected IBM Waston with MongoDB to get all information from people who use Hajar
+Make our project ready to use soon you can try it on [Hajar.live] 
 We are so happy to help people from all around the world
-This weekend will be special for us because of Hajar. 
 
 
 ## What we learned
+Overcoming obstacles within few hours
 Working with a great team like who we met in Hajj hackathon was a great enriching full of knowledge. we are learning a lot from each other.  
 
 ## What's next for C-88-Hajar
