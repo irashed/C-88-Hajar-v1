@@ -46,14 +46,14 @@ if (process.env.ASSISTANT_IAM_APIKEY && process.env.ASSISTANT_IAM_APIKEY != '') 
   assistant = new AssistantV1({
     version: '2018-02-16',
     url: process.env.ASSISTANT_URL || 'https://gateway.watsonplatform.net/assistant/api',
-    username: process.env.ASSISTANT_USERNAME || '0194176f-071a-440a-808b-7faf243196a2',
-    password: process.env.ASSISTANT_PASSWORD || 'PyDoQWpGpZGJ',
+    username: process.env.ASSISTANT_USERNAME || '*******-***********-************-***********',
+    password: process.env.ASSISTANT_PASSWORD || '********************',
   });
 }
 
 // Endpoint to be call from the client side
 app.post('/api/message', function (req, res) {
-  var workspace = process.env.WORKSPACE_ID || 'b701ff58-0468-4750-bdd9-5a1bcd180b5b';
+  var workspace = process.env.WORKSPACE_ID || '*******************************';
   if (!workspace || workspace === '') {
     return res.json({
       'output': {
